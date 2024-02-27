@@ -1,6 +1,6 @@
-Nama : Alan Herva Ikhsan Saputra
-No Absen : 9
-Kelas : XII RPL A
+Nama : Alan Herva Ikhsan Saputra <br>
+No Absen : 9 <br>
+Kelas : XII RPL A <br>
 
 # SIUP | Aplikasi Pemasaran Unit Produksi
 
